@@ -5,9 +5,11 @@ h1 {
 }
 button {
   cursor: pointer;
-  padding: 10px;
+  padding: 10px 30px;
   color: blueviolet;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: "Trebuchet MS";
   box-shadow: cornsilk;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid blueviolet;
 }
