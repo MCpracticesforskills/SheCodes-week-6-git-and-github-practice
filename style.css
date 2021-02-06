@@ -3,3 +3,11 @@ h1 {
   color: blueviolet;
   font: lucida;
 }
+button {
+  cursor: pointer;
+  padding: 10px;
+  color: blueviolet;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  box-shadow: cornsilk;
+}
